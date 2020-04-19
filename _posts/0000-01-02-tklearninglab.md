@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Octocat is the GOAT
 Use the left arrow to go back!
